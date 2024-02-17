@@ -1,1 +1,1 @@
-# corsaid
+An aid to CORS restrictions.
